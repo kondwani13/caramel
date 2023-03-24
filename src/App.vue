@@ -74,7 +74,7 @@
                 </div>
             </nav>
         </div>
-    <div  class="lg:pt-40 z-20 py-8">
+    <div  class="lg:pt-40 z-20 py-5">
        <slider />
     </div>   
      

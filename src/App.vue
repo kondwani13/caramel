@@ -33,10 +33,10 @@
             <nav class="lg:hidden">
                 <div class="flex py-6 justify-between items-center px-4">
                     <div>
-                        <img class="w-20 z-50" src="https://i.ibb.co/Nj4g1Jf/logow.png" alt="logo" >
+                        <img class="w-20 z-50 pb-4" src="https://i.ibb.co/Nj4g1Jf/logow.png" alt="logo" >
                     </div>
-                    <div class="visible flex items-center">
-                        <ul id="list" class="hidden py-5 px-4 border-r bg-white absolute rounded top-0 left-0 right-0 shadow mt-16 md:mt-16 z-40">
+                    <div class="visible  flex items-center pb-4">
+                        <ul id="list" class="hidden  px-4 border-r bg-white absolute rounded top-0 left-0 right-0 shadow mt-24 md:mt-16 z-40">
                             <li class="flex cursor-pointer text-gray-600 text-sm leading-3 tracking-normal mt-2 py-2 hover:text-yellow-300 focus:text-yellow-300 focus:outline-none">
                                 <button @click="scrollToAnchorPoint('home')" class="ml-2 font-bold" >Home</button>
                             </li>
@@ -121,16 +121,13 @@
         </div>
         </div>
         <feature />
-
-    <img class="w-full -mt-5" src="https://i.ibb.co/425WxH3/c123.png" alt="">
-
-     <div ref="order" class="bg-white text-center p-4">
-                <p class="w-10/12 mx-auto md:w-full font-semibold lg:text-4xl text-3xl lg:leading-9 md:leading-7 leading-9 text-center text-gray-800"></p>
-            
-            </div>
+    <div class="flex justify-center"> 
+    <img class="w-52" src="https://i.ibb.co/425WxH3/c123.png" alt="">
+    </div>
+     
 
             
-            <div class="lg:px-20 lg:py-16 px-5 py-5 grid lg:grid-cols-3 grid-cols-2  gap-4">
+            <div ref="order" class="lg:px-20 lg:py-16 px-5 py-5 grid lg:grid-cols-3 grid-cols-2  gap-4">
 <div @click="scrollToAnchorPoint('home')" class="rounded hover:shadow lg:p-10 p-4" >
 <RouterLink to="/choc">
 <img class="w-40" src="https://i.ibb.co/xXb8YDS/choc.png" alt="choc">

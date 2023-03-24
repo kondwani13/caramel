@@ -31,13 +31,13 @@
                                 <div class="lg:flex" style="transform: translateX(0%)">
                                     <div class="">
                                         <div class="relative h-96">
-                                            <img class="absolute inset-0 object-cover object-center w-full h-full" src="https://i.ibb.co/hFnwQvM/platter22.png" alt="" />
+                                            <img class="absolute inset-0 object-cover object-center w-full h-full" src="https://i.ibb.co/hFnwQvM/platter1platter12.png" alt="" />
                                         </div>
                                         <div class="py-6 border-b border-gray-200">
                                             <h2 class="text-2xl text-indigo-900 font-bold">Chocolate strewberry combo</h2>
                                             <p class="py-3 text-sm text-gray-700 leading-7">Introducing our delicious cake combo product! This delectable treat features two layers of moist vanilla cake, filled with creamy chocolate ganache and topped with fluffy vanilla buttercream frosting.</p>
                                             <div @click="scrollToAnchorPoint('home')" class="">
-                                           <RouterLink to="/platter2"><p class="text-sm text-red-600">Make an order</p></RouterLink>
+                                           <RouterLink to="/platter1"><p class="text-sm text-red-600">Make an order</p></RouterLink>
                                             </div>
                                             
                                         </div>
@@ -50,7 +50,7 @@
                                             <h2 class="text-2xl text-indigo-900 font-bold">Chocolate Hazelnut Cake</h2>
                                             <p class="py-3 text-sm text-gray-700 leading-7">Introducing our delicious cake combo product! This delectable treat features two layers of moist vanilla cake, filled with creamy chocolate ganache and topped with fluffy vanilla buttercream frosting.</p>
                                             <div @click="scrollToAnchorPoint('home')" class="">
-                                           <RouterLink to="/platter2"><p class="text-sm text-red-600">Make an order</p></RouterLink>
+                                           <RouterLink to="/platter1"><p class="text-sm text-red-600">Make an order</p></RouterLink>
                                             </div>
                                             
                                         </div>
@@ -65,7 +65,7 @@
                                             <h2 class="text-2xl text-indigo-900 font-bold">vanilla cupcake combo</h2>
                                             <p class="py-3 text-sm text-gray-700 leading-7">Introducing our delicious cake combo product! This delectable treat features two layers of moist vanilla cake, filled with creamy chocolate ganache and topped with fluffy vanilla buttercream frosting.</p>
                                             <div @click="scrollToAnchorPoint('home')" class="">
-                                           <RouterLink to="/platter2"><p class="text-sm text-red-600">Make an order</p></RouterLink>
+                                           <RouterLink to="/platter1"><p class="text-sm text-red-600">Make an order</p></RouterLink>
                                             </div>
                                             
                                         </div>
@@ -78,7 +78,7 @@
                                             <h2 class="text-2xl text-indigo-900 font-bold">Chocolate strewberry combo</h2>
                                             <p class="py-3 text-sm text-gray-700 leading-7">Introducing our delicious cake combo product! This delectable treat features two layers of moist vanilla cake, filled with creamy chocolate ganache and topped with fluffy vanilla buttercream frosting.</p>
                                            <div @click="scrollToAnchorPoint('home')" class="">
-                                           <RouterLink to="/platter2"><p class="text-sm text-red-600">Make an order</p></RouterLink>
+                                           <RouterLink to="/platter1"><p class="text-sm text-red-600">Make an order</p></RouterLink>
                                             </div>
                                             
                                         </div>
@@ -93,7 +93,7 @@
                                             <h2 class="text-2xl text-indigo-900 font-bold">Chocolate Hazelnut Cake</h2>
                                             <p class="py-3 text-sm text-gray-700 leading-7">Introducing our delicious cake combo product! This delectable treat features two layers of moist vanilla cake, filled with creamy chocolate ganache and topped with fluffy vanilla buttercream frosting.</p>
                                             <div @click="scrollToAnchorPoint('home')" class="">
-                                           <RouterLink to="/platter2"><p class="text-sm text-red-600">Make an order</p></RouterLink>
+                                           <RouterLink to="/platter1"><p class="text-sm text-red-600">Make an order</p></RouterLink>
                                             </div>
                                             
                                         </div>
@@ -106,7 +106,7 @@
                                             <h2 class="text-2xl text-indigo-900 font-bold">vanilla cupcake combo</h2>
                                             <p class="py-3 text-sm text-gray-700 leading-7">Introducing our delicious cake combo product! This delectable treat features two layers of moist vanilla cake, filled with creamy chocolate ganache and topped with fluffy vanilla buttercream frosting.</p>
                                            <div @click="scrollToAnchorPoint('home')" class="">
-                                           <RouterLink to="/platter2"><p class="text-sm text-red-600">Make an order</p></RouterLink> 
+                                           <RouterLink to="/platter1"><p class="text-sm text-red-600">Make an order</p></RouterLink> 
                                             </div>
                                             
                                         </div>
@@ -121,7 +121,7 @@
                                             <h2 class="text-2xl text-indigo-900 font-bold">Chocolate strewberry combo</h2>
                                             <p class="py-3 text-sm text-gray-700 leading-7">Introducing our delicious cake combo product! This delectable treat features two layers of moist vanilla cake, filled with creamy chocolate ganache and topped with fluffy vanilla buttercream frosting.</p>
                                            <div @click="scrollToAnchorPoint('home')" class="">
-                                           <RouterLink to="/platter2"><p class="text-sm text-red-600">Make an order</p></RouterLink>
+                                           <RouterLink to="/platter1"><p class="text-sm text-red-600">Make an order</p></RouterLink>
                                             </div>
                                             
                                         </div>
@@ -134,7 +134,7 @@
                                             <h2 class="text-2xl text-indigo-900 font-bold">Chocolate Hazelnut Cake</h2>
                                             <p class="py-3 text-sm text-gray-700 leading-7">Introducing our delicious cake combo product! This delectable treat features two layers of moist vanilla cake, filled with creamy chocolate ganache and topped with fluffy vanilla buttercream frosting.</p>
                                            <div @click="scrollToAnchorPoint('home')" class="">
-                                           <RouterLink to="/platter2"><p class="text-sm text-red-600">Make an order</p></RouterLink>
+                                           <RouterLink to="/platter1platter1"><p class="text-sm text-red-600">Make an order</p></RouterLink>
                                             </div>
                                         </div>
                                     </div>

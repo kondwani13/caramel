@@ -42,7 +42,7 @@ const router = createRouter({
       },
       {
         path: '/platter1',
-        name: 'platter2',
+        name: 'platter1',
         component: () => import('../views/Platter1.vue')
       },
       {

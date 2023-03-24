@@ -8,7 +8,7 @@
                 <div class="w-full sm:w-96 mt-14 rounded shadow p-4 bg-white md:w-8/12 lg:w-6/12 items-center">
                    <div class="flex">
                     <p class="focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-800 font-normal text-base leading-4 text-gray-600  dark:text-white">Treat / Cake / Lemon</p>
-                    <div @click="scrollToAnchorPoint('product')" class="focus:outline-none focus:ring-2 focus:ring-gray-800 pl-24 rounded">
+                    <div @click="scrollToAnchorPoint('product')" class="focus:outline-none focus:ring-2 focus:ring-gray-800 pl-28 rounded">
                      <RouterLink to="/">
                      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                      <path d="M18 6L6 18" stroke="#1F2937" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
@@ -40,7 +40,7 @@
                        
                     </div>
       
-                     <a a href="https://wa.me/260973096810"> <button class="focus:outline-none focus:ring-2 hover:bg-black focus:ring-offset-2 focus:ring-gray-800 font-medium text-base leading-4 text-white bg-gray-800 w-full py-5 lg:mt-12 mt-6 dark:bg-white dark:text-gray-900 dark:hover:bg-gray-100">Buy</button></a>
+                     <a a href="https://wa.me/260978700956"> <button class="focus:outline-none focus:ring-2 hover:bg-black focus:ring-offset-2 focus:ring-gray-800 font-medium text-base leading-4 text-white bg-gray-800 w-full py-5 lg:mt-12 mt-6 dark:bg-white dark:text-gray-900 dark:hover:bg-gray-100">Buy</button></a>
                 </div>
       
                 <!-- Preview Images Div For larger Screen-->

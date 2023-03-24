@@ -36,7 +36,7 @@
                         <img class="w-20 z-50" src="https://i.ibb.co/Nj4g1Jf/logow.png" alt="logo" >
                     </div>
                     <div class="visible flex items-center">
-                        <ul id="list" class="hidden p-3 border-r bg-white absolute rounded top-0 left-0 right-0 shadow mt-16 md:mt-16 z-40">
+                        <ul id="list" class="hidden py-5 px-4 border-r bg-white absolute rounded top-0 left-0 right-0 shadow mt-16 md:mt-16 z-40">
                             <li class="flex cursor-pointer text-gray-600 text-sm leading-3 tracking-normal mt-2 py-2 hover:text-yellow-300 focus:text-yellow-300 focus:outline-none">
                                 <button @click="scrollToAnchorPoint('home')" class="ml-2 font-bold" >Home</button>
                             </li>
